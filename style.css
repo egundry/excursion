@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.title-container {
+    text-align: center;
+}
+
+.link {
+  color: aquamarine;
+  text-decoration: underline;
+  font-size: 16px;  
+  text-align: center;
+}
+
+footer {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;   
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.section-I {
+    text-align: center;
+}
+
+.section-II {
+    text-align: center;
+}
+
+.section-III {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;  
+    text-align: center;
+  }
+
+  footer {
+      text-align: right;
+      color: gray;
+  }
